@@ -9,3 +9,8 @@ Answer: Data science could be applied to the medical field. They can use datasci
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging retains commit history while rebased rewrites history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Making new friends.
+
