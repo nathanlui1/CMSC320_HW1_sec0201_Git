@@ -5,3 +5,7 @@ Answer: Git allows for seemless and quick storage for your code, while giving ot
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to the medical field. They can use datascience to help predict what diseases a certain person is more likely to have.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging retains commit history while rebased rewrites history.
