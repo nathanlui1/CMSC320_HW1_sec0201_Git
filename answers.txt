@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows for seemless and quick storage for your code, while giving others access to your code. It lets multiple people to work on it, and it makes merging and resolving code conflicts a lot easier.
+
